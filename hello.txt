@@ -5,4 +5,5 @@ hello git! hello jiangnan!
 hello git! hello jiangnan!
 hello git! hello jiangnan!
 hello git! hello jiangnan!
-hello git! hello jiangnan!master
+hello git! hello jiangnan!master hot-fix
+>>>>>>> hot-fix
